@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Camera</string>
+    <string name="permission_denied">Permission Denied By the User</string>
+</resources>
